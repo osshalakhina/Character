@@ -1,6 +1,6 @@
 # Character
 
-Illustrations with girl. Made in Adobe Illustrator.
+Illustrations with girl created in Adobe Illustrator.
 
 # Preview
 
