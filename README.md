@@ -1,7 +1,7 @@
 # Character
 
-Illustrations with girl. Made in Illustrator.
+Illustrations with girl. Made in Adobe Illustrator.
 
 # Preview
 
-![](./images/4.png)
+![](./images/preview.png)
